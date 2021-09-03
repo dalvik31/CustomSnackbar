@@ -18,3 +18,9 @@ Custom Snackbar
 	        implementation 'com.github.dalvik31:CustomSnackbar:Tag'
 	}
   ```
+
+> Use
+
+```
+ CustomSnackbar.showErrorToast(binding.container/*Constrainlayout*/,"message")
+ ```

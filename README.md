@@ -19,7 +19,7 @@ Custom Snackbar
 	}
   ```
 
-> Use
+>Step 3. Use
 
 ```
  CustomSnackbar.showErrorToast(binding.container/*Constrainlayout*/,"message")
